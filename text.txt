@@ -1,2 +1,3 @@
 data = file
 file = mahendra
+few = text
