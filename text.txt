@@ -1,7 +1,3 @@
 data = file
 file = mahendra
-few = text\
-
-123
-123
-234
+few = text
